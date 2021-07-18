@@ -8,7 +8,7 @@ Harvard CS50x — 2021 solutions
   - [Population](/lab1/population)
   
 - [Problem Set 1: C](/pset1)
-  - mario(/pset1/mario) :mushroom:
+  - [mario](/pset1/mario) :mushroom:
     - [less](/pset1/mario/less)
     - [more](/pset1/mario/more)
   - [cash](/pset1/cash)
