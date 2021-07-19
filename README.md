@@ -16,3 +16,8 @@ Harvard CS50x — 2021 solutions
 
 - [Lab 2](/lab2)
   - [Scrabble](/lab2/scrabble/)
+
+- [Problem Set 2: Arrays](/pset2)
+  - [readability](/pset2/readability)
+  - [caesar](/pset2/caesar)
+  - [substitution](/pset2/substitution)
