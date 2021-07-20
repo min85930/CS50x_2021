@@ -20,3 +20,5 @@ Harvard CS50x — 2021 solutions
   - [readability](/pset2/readability)
   - [caesar](/pset2/caesar)
   - [substitution](/pset2/substitution)
+  
+- [Lab 3: Sort](/lab3)
