@@ -20,5 +20,10 @@ Harvard CS50x — 2021 solutions
   - [readability](/pset2/readability)
   - [caesar](/pset2/caesar)
   - [substitution](/pset2/substitution)
-  
+
 - [Lab 3: Sort](/lab3)
+
+- [Problem Set 3: Algorithms](/pset3)
+  - [plurality](pset3/plurality)
+  - [runoff](pset3/runoff)
+  - [tideman](pset3/tideman)
