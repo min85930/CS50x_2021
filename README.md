@@ -14,7 +14,7 @@ Harvard CS50x — 2021 solutions
   - [cash](/pset1/cash)
   - [credit](/pset1/credit)
 
-- [Lab 2: Scrabble](/lab2/scrabble/)
+- [Lab 2: Scrabble](/lab2)
 
 - [Problem Set 2: Arrays](/pset2)
   - [readability](/pset2/readability)
@@ -27,3 +27,5 @@ Harvard CS50x — 2021 solutions
   - [plurality](pset3/plurality)
   - [runoff](pset3/runoff)
   - [tideman](pset3/tideman)
+
+- [Lab 4: Volume :musical_note:](/lab4)
