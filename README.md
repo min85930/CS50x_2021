@@ -29,3 +29,9 @@ Harvard CS50x — 2021 solutions
   - [tideman](pset3/tideman)
 
 - [Lab 4: Volume :musical_note:](/lab4)
+
+- [Problem Set 4: Memory](/pset4)
+  - filter :framed_picture:
+    - [less](/pset4/filter/less)
+    - [more](/pset4/filter/more)
+  - [recover](/pset4/recover)
