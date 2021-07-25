@@ -35,3 +35,5 @@ Harvard CS50x — 2021 solutions
     - [less](/pset4/filter/less)
     - [more](/pset4/filter/more)
   - [recover](/pset4/recover)
+
+- [Lab 5: Inheritance](/lab5)
