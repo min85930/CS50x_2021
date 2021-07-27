@@ -40,3 +40,5 @@ Harvard CS50x — 2021 solutions
 
 - [Problem Set 5: Data Structures](/pset5)
   - [speller](/pset5/speller)
+
+- [Lab 6: World Cup :soccer:](/lab6)
