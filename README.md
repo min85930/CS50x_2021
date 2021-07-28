@@ -42,3 +42,13 @@ Harvard CS50x — 2021 solutions
   - [speller](/pset5/speller)
 
 - [Lab 6: World Cup :soccer:](/lab6)
+
+- [Problem Set 6: Python :snake:](/pset6)
+  - [hello](/pset6/hello)
+  - [mario](/pset6/mario)
+    - [less](/pset6/mario/less)
+    - [more](/pset6/mario/more)
+  - [cash :moneybag:](/pset6/cash)
+  - [credit :credit_card:](/pset6/credit)
+  - [readability](/pset6/readability/)
+  - [dna](/pset6/dna)
