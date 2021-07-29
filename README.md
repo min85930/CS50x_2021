@@ -52,3 +52,5 @@ Harvard CS50x — 2021 solutions
   - [credit :credit_card:](/pset6/credit)
   - [readability](/pset6/readability/)
   - [dna](/pset6/dna)
+
+- [Lab 7: Songs:notes:](/lab7)
