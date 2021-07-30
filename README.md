@@ -54,3 +54,7 @@ Harvard CS50x — 2021 solutions
   - [dna](/pset6/dna)
 
 - [Lab 7: Songs:notes:](/lab7)
+
+- [Problem Set 7: SQL](/pset7)
+  - [movies :cinema:](pset7/movies)
+  - [fiftyville](pset7/fiftyville)
