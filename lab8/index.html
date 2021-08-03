@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+
+        <script>
+
+            // TODO: Add code to check answers to questions
+            function Quiz1()
+            {
+                // reset button backgroundColor
+                var Quiz1button = document.querySelectorAll(".Quiz1");
+                Quiz1button.forEach(function(button) {
+                    button.style.backgroundColor="#d9edff";
+                });
+
+                let ans1 = event.target.value;
+                let A1 = document.querySelector("#A1");
+
+                // check answer
+                if(ans1 == 1)
+                {
+                    event.target.style.backgroundColor="#00FF00";
+                    A1.innerHTML='Correct!';
+                }
+                else
+                {
+                    event.target.style.backgroundColor="#FF0000";
+                    A1.innerHTML='Incorrect!';
+                }
+            }
+
+            function Quiz2()
+            {
+                let ans2 = document.querySelector("#Quiz2");
+                let A2 = document.querySelector("#A2");
+
+                if (ans2.value.toLowerCase() == 'switzerland')
+                {
+                    ans2.style.backgroundColor='#00FF00';
+                    A2.innerHTML='Correct!';
+                }
+                else
+                {
+                    ans2.style.backgroundColor='#FF0000';
+                    A2.innerHTML='Incorrect!';
+                }
+            }
+
+            document.addEventListener("DOMContentLoaded", function(){
+                var Quiz1button = document.querySelectorAll(".Quiz1");
+
+                Quiz1button.forEach(function(button) {
+                    button.addEventListener('click', Quiz1);
+                });
+            });
+
+        </script>
+
+    </head>
+    <body>
+
+        <div class="jumbotron">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What is the approximate ratio of people to sheep in New Zealand?</h3>
+                <h4 id='A1'></h4>
+                <button type="button" class="Quiz1" value='1'>6 people per 1 sheep</button>
+                <button type="button" class="Quiz1" value='2'>3 people per 1 sheep</button>
+                <button type="button" class="Quiz1" value='3'>1 people per 1 sheep</button>
+                <button type="button" class="Quiz1" value='4'>1 people per 3 sheep</button>
+                <button type="button" class="Quiz1" value='5'>1 people per 6 sheep</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+
+                <!-- TODO: Add free response question here -->
+                <h3>In which country is it illegal to own only one guinea pig, as a lone guinea pig might get lonely?</h3>
+                <h4 id='A2'></h4>
+
+                <input type='text' id="Quiz2"></input>
+                <button type='button' onclick="Quiz2(); return false;">Check Answer</button>
+
+            </div>
+
+        </div>
+    </body>
+</html>
