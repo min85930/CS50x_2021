@@ -58,3 +58,9 @@ Harvard CS50x — 2021 solutions
 - [Problem Set 7: SQL](/pset7)
   - [movies :cinema:](pset7/movies)
   - [fiftyville](pset7/fiftyville)
+
+- [Lab 8: Trivia](/lab8)
+
+- [Problem Set 8: Homepage]
+
+- [Lab 9: Birthdays 🎂](/lab9) 
