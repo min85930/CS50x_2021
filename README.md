@@ -64,3 +64,5 @@ Harvard CS50x — 2021 solutions
 - [Problem Set 8: Homepage]
 
 - [Lab 9: Birthdays 🎂](/lab9) 
+
+- [Problem Set 9: Finance :money_mouth_face:](/pset9/finance)
